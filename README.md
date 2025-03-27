@@ -1,3 +1,5 @@
+# Atomic Angular: Design System Architecture with Nx & Storybook
+
 A scalable, modular Design System built with Angular, structured in an Nx monorepo for efficiency, and documented with Storybook for seamless UI development. This project follows Atomic Design principles to ensure consistency, reusability, and maintainability across Angular applications.
 
 Key Features:
